@@ -72,7 +72,7 @@
     
 ---
 
-If you want to try it live, here is the url: [`https://trip-with-us-backend-apis.vercel.app/hotels`](https://trip-with-us-backend-apis.vercel.app/hotels)
+If you want to try it live, here is the url: [`https://foodie-finds-backend-apis.vercel.app/restaurants`](https://foodie-finds-backend-apis.vercel.app/restaurants)
 ---
 Made with ❤️ by Jigar 
     
